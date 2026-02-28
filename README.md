@@ -7,4 +7,4 @@ Currently I explain why I pivoted from social media to this small-web solution a
 I also have a page where I document the equipment I use, which is also a work-in-progress.
 
 I mainly drew from my knowledge about HTML and CSS which I accumulated over the summer via FreeCodeCamp.
-For some quick bugfixes that I missed, I used ChatGPT, because I use all the time for various purposes.
+For some quick bugfixes that I missed, I used ChatGPT.
